@@ -3,7 +3,7 @@
 // @namespace
 // @version      1.3
 // @description  每隔2-3分钟模拟一次鼠标移动，避免在线课堂挂机检测，检测到视频结束过后，自动点击下一个
-// @author       张禹涛和ChatGPT⬅️这是大佬，我只是给他提需求和打辅助
+// @author       小张和ChatGPT⬅️这是大佬，我只是给他提需求和打辅助
 // @icon         https://picobd.yxt.com/orgs/yxt_malladmin/mvcpic/image/201811/71672740d9524c53ac3d60b6a4123bca.png
 // @match        http*://*.yunxuetang.cn/plan/*.html
 // @match        http*://*.yunxuetang.cn/kng/*/document/*
@@ -15,7 +15,6 @@
 // @match        http*://*.yunxuetang.cn/sty/index.htm
 // @match        http*://*.yunxuetang.cn/exam/test/examquestionpreview.htm*
 // @match        https://zjjt.yunxuetang.cn/*
-// @match        https://e-cscec.zhixueyun.com/*
 // @grant        GM_xmlhttpRequest
 // @grant        GM_setValue
 // @grant        GM_getValue
